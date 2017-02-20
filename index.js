@@ -1,4 +1,9 @@
 "use strict"
+/*
+No license here!
+
+*/
+
 class Root() {
  constructor() {
    
