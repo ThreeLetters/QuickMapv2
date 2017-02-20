@@ -13,3 +13,7 @@ Use a key-value array with a Doubly-LinkedList
 
 ### Loop
 1. Loop through linkedlist
+
+## Why?
+
+Item deletion is expensive. But removing the pointer isnt. Also, why not use a key-value pair?
